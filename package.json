@@ -1,7 +1,7 @@
 {
   "name": "live_chats",
   "version": "0.1.0",
-  "homepage": "Arcrunoo.github.io",
+  "homepage": "https://arc.github.io/live_chats/",
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
